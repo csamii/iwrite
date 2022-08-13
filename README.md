@@ -1,4 +1,1 @@
-live address
-https://csamii.github.io/iwrite/
-
-blog
+Iwrite is a blog
